@@ -18,7 +18,7 @@ elif day == "Tueday" or day =="tueday":
 elif day == "Wednesday" or day =="wednesday":
   print("""Sometimes it's okay to take a step back and give it a rest for a while. Even robot needs reboot and recharging. Take it easy😸!""")
 
-elif day == "Thurday" or day =="thurday":
+elif day == "Thursday" or day =="thursday":
   print("""You are getting there. Don't give up. Take it slow but steady. Everybody has their day💪!""")
 
 elif day == "Friday" or day =="friday":
